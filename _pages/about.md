@@ -13,12 +13,15 @@ Hello! I'm Linchao Pan, a second-year Master's student at [the College of Comput
 - **L. Pan**, C. Gao, J. Zhou, G. Chen, X. Yue. [Three-way decision-based Takagi–Sugeno–Kang fuzzy classifier for partially labeled data](https://www.sciencedirect.com/science/article/pii/S1568494624007841). Applied Soft Computing, 2024, 164: 112010.
 - X. Liu, L. Wang, **L. Pan**, C. Gao. [Kernelized fuzzy rough sets-based three-way feature selection](https://link.springer.com/chapter/10.1007/978-3-031-21244-4_28). In Proc. International Joint Conference on Rough Sets. 2022: 376-389.
 - **L. Pan**, C. Gao, J. Zhou. [Three-way decision-based tri-training with entropy minimization](https://www.sciencedirect.com/science/article/pii/S0020025522008210). Information Sciences, 2022, 610: 33-51.
+
 ## Education
 - Sep. 2023 - present, Master, Computer Science and Technology, Shenzhen University.
 - Sep. 2019 - June 2023, Bachelor, Software Engineering, Shenzhen University. (Outstanding Graduates)
+
 ## Honors and Awards
 - Shenzhen University Excellent Graduation Student
 - Shenzhen University Honored Bachelor Degree
+
 ## Professional Experiences
 - Teaching Experience
   - Teaching Assistant, Artificial Intelligence and Machine Learning, Fall 2022, Fall 2023, Fall 2024.
