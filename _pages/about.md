@@ -16,11 +16,14 @@ Hello! I'm Linchao Pan, a second-year Master's student at [the College of Comput
 
 ## Education
 - Sep. 2023 - present, Master, Computer Science and Technology, Shenzhen University.
-- Sep. 2019 - June 2023, Bachelor, Software Engineering, Shenzhen University. (Outstanding Graduates)
+- Sep. 2019 - June 2023, Bachelor, Software Engineering, Shenzhen University. (Outstanding Graduate)
 
 ## Honors and Awards
-- Shenzhen University Excellent Graduation Student
-- Shenzhen University Honored Bachelor Degree
+- Shenzhen University Outstanding Graduate, 2023
+- Shenzhen University Honored Bachelor Degree, 2023
+- Shenzhen University’s 2023 100 Outstanding Undergraduate Thesis (Design), 2023
+- Shenzhen University Tencent Innovation Scholarship, 2023
+- Ministry of Education -- Huawei Smart Base "Future Star", 2022
 
 ## Professional Experiences
 - Teaching Experience
@@ -28,7 +31,8 @@ Hello! I'm Linchao Pan, a second-year Master's student at [the College of Comput
   - Teaching Assistant, Introduction to Artificial Intelligence, Fall 2022, Fall 2023, Spring 2024.
   - Teaching Assistant, Artificial Intelligence Overview, Spring 2022, Spring 2023, Spring 2024.
 - Internship Experience
-  - Intern, Tencent AI Lab, Jan. 2022 - May 2022.
+  - Intern, Tencent AI Lab, working on the Computational Optimization Group, Jan. 2022 - May 2022.
 
 ## Skills
 - Professional Skills: Data analysis and visualization using Python, neural network construction and distributed training using PyTorch.
+- Language: CET-6(510).
