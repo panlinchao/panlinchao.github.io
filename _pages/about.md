@@ -30,7 +30,7 @@ Find my cv [here](../files/cv.pdf).
 ## Professional Experiences
 - Teaching Experience
   - Teaching Assistant, Artificial Intelligence and Machine Learning, Fall 2022, Fall 2023, Fall 2024.
-  - Teaching Assistant, Introduction to Artificial Intelligence, Fall 2022, Fall 2023, Spring 2024.
+  - Teaching Assistant, Introduction to Artificial Intelligence, Fall 2022, Fall 2023, Spring 2024, Fall 2024.
   - Teaching Assistant, Artificial Intelligence Overview, Spring 2022, Spring 2023, Spring 2024.
 - Internship Experience
   - Intern, Tencent AI Lab, working on the Computational Optimization Group, Jan. 2022 - May 2022.
